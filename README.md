@@ -19,7 +19,6 @@
 ## Proyectos Actuales
 
 * 🎨 **[InkBoard](https://tu-enlace-de-vercel.vercel.app)** - Lienzo infinito y motor de dibujo vectorial. React + Konva + Zustand. Ultra-rápido.
-* ☕ **[Tu Proyecto Java]** - Arquitectura backend sólida. Spring Boot y alta concurrencia.
 * ⏳ **[DeepFlow]** *(WIP)* - App minimalista de *time-blocking*. Enfocada en el estado de flujo (Deep Work).
 * ⚡ **[TaskCore]** *(WIP)* - Todo-app de nueva generación. *Local-first*, 100% teclado y asistida por IA.
 

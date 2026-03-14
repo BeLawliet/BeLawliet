@@ -16,11 +16,12 @@
 
 > Arquitecto de software fusionando la robustez del backend con el dinamismo del frontend moderno. Aprovecho el poder de la IA para explorar nuevas tecnologías, diseñar arquitecturas escalables y construir productos interactivos a la velocidad del pensamiento.
 
-## Proyectos actuales
+## Proyectos Actuales
 
-* 🎨 **[InkBoard](https://devarchitechx-inkboard.netlify.app/)** - Lienzo digital infinito de alto rendimiento para dibujo vectorial y diagramación. Construido con React, Konva.js y Zustand. Cuenta con motor de paneo, zoom y una máquina del tiempo (Undo/Redo) personalizada. *(Código Privado / App en Vivo)*
-* ⏳ **[DeepFlow]** - Aplicación minimalista de productividad y *time-blocking* inspirada en Flow. Enfocada en estados de trabajo profundo (Deep Work) con analíticas de rendimiento y una interfaz ultra-fluida. *(En fase de diseño / WIP)*
-* ⚡ **[TaskCore]** - Gestor de tareas de próxima generación. Diseñado para ser ridículamente rápido, con arquitectura *local-first*, navegación 100% por teclado y organización asistida por IA. No es la típica lista de tareas. *(Conceptualización)*
+* 🎨 **[InkBoard](https://tu-enlace-de-vercel.vercel.app)** - Lienzo infinito y motor de dibujo vectorial. React + Konva + Zustand. Ultra-rápido.
+* ☕ **[Tu Proyecto Java]** - Arquitectura backend sólida. Spring Boot y alta concurrencia.
+* ⏳ **[DeepFlow]** *(WIP)* - App minimalista de *time-blocking*. Enfocada en el estado de flujo (Deep Work).
+* ⚡ **[TaskCore]** *(WIP)* - Todo-app de nueva generación. *Local-first*, 100% teclado y asistida por IA.
 
 ---
 *Siempre dispuesto a hablar sobre Arquitectura de Software, Patrones de Diseño y cómo integrar la IA en los flujos de trabajo tradicionales.*

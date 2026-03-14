@@ -18,7 +18,7 @@
 
 ## Proyectos Actuales
 
-* 🎨 **[InkBoard](https://devarchitechx-inkboard.netlify.app/)** - Lienzo infinito y motor de dibujo vectorial. React + Konva + Zustand. Ultra-rápido.
+* 🎨 **[InkBoard](https://devarchitechx-inkboard.netlify.app/)** (Closed source) - Lienzo infinito y motor de dibujo vectorial. React + Konva + Zustand. Ultra-rápido.
 * ⏳ **[DeepFlow]** *(WIP)* - App minimalista de *time-blocking*. Enfocada en el estado de flujo (Deep Work).
 * ⚡ **[TaskCore]** *(WIP)* - Todo-app de nueva generación. *Local-first*, 100% teclado y asistida por IA.
 
